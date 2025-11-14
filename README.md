@@ -26,7 +26,7 @@ It enables the injection of assemblies (such as .NET DLLs) into a selected proce
 Designed primarily for 64-bit applications, there are plans to extend support to 32-bit applications.
 
 ##  :flower_playing_cards: Example
-![image](https://github.com/TTENSHII/XashInjector/assets/87119012/c685003e-ef73-4436-aa92-3ebc5b1c102a)
+![image](https://github.com/kw4ntiq/XashInjector/assets/87119012/c685003e-ef73-4436-aa92-3ebc5b1c102a)
 
 ## :flags: Usage
 
@@ -48,16 +48,16 @@ You can configure the application theme.
 You can choose from a range of predefined themes or colour-by-colour themes.
 For the moment, the theme is not saved; this feature is coming on the json-save branch.
 
-![Arcade](https://github.com/TTENSHII/XashInjector/assets/87119012/5c23fdc9-3176-4c5f-9bf0-66eba2fec862)
-![BW](https://github.com/TTENSHII/XashInjector/assets/87119012/ad809c2c-2937-4a30-99d3-1e1c1b4d4a27)
-![Purple](https://github.com/TTENSHII/XashInjector/assets/87119012/5061537e-a385-4a31-bf0d-68c33dfb4528)
-![Default](https://github.com/TTENSHII/XashInjector/assets/87119012/1f22363d-8eb0-418e-9b78-fcd19875ee64)
-![Ocean](https://github.com/TTENSHII/XashInjector/assets/87119012/84084461-64b2-4fda-948b-d8ffc17f1757)
+![Arcade](https://github.com/kw4ntiq/XashInjector/assets/87119012/5c23fdc9-3176-4c5f-9bf0-66eba2fec862)
+![BW](https://github.com/kw4ntiq/XashInjector/assets/87119012/ad809c2c-2937-4a30-99d3-1e1c1b4d4a27)
+![Purple](https://github.com/kw4ntiq/XashInjector/assets/87119012/5061537e-a385-4a31-bf0d-68c33dfb4528)
+![Default](https://github.com/kw4ntiq/XashInjector/assets/87119012/1f22363d-8eb0-418e-9b78-fcd19875ee64)
+![Ocean](https://github.com/kw4ntiq/XashInjector/assets/87119012/84084461-64b2-4fda-948b-d8ffc17f1757)
 
 ## :package: Installation
 
 - **Obtaining Binaries:**
-  - Download the precompiled binaries from the [GitHub releases page](https://github.com/TTENSHII/XashInjector/releases).
+  - Download the precompiled binaries from the [GitHub releases page](https://github.com/kw4ntiq/XashInjector/releases).
 
 - **Compilation Instructions:**
   - Developers can also compile the project by following the instructions provided in the development section.
@@ -89,7 +89,7 @@ Feel free to adapt these tools and commands to your development environment as n
 
 Clone the repository with submodules:
 ```powershell
-git clone --recursive https://github.com/TTENSHII/XashInjector
+git clone --recursive https://github.com/kw4ntiq/XashInjector
 ```
 
 If you have already cloned the repository, you can do this to add submodules:
@@ -137,8 +137,8 @@ git submodule update --init --recursive
 Welcome to the XashInjector project! We appreciate your interest in contributing. To get started, here are some guidelines:
 
 - **Issues and Discussions:**
-  - Feel free to explore our [Issues](https://github.com/TTENSHII/XashInjector/issues) for existing tasks or report new ones.
-  - Engage in Discussions [here](https://github.com/TTENSHII/XashInjector/discussions) to ask questions or propose ideas.
+  - Feel free to explore our [Issues](https://github.com/kw4ntiq/XashInjector/issues) for existing tasks or report new ones.
+  - Engage in Discussions [here](https://github.com/kw4ntiq/XashInjector/discussions) to ask questions or propose ideas.
 
 - **Contributing Basics:**
   - Familiarize yourself with the project's codebase.
